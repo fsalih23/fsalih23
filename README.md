@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @fsalih23
-- 👀 I’m interested in chilling
-- 🌱 I’m currently learning Web-Dev with React
+- 👋 Hi, I’m @fsalih23. I am a freshman studying Computer Science at Stanford University
+- 👀 I’m interested in mathematics, web-dev, finance, quantiative developement, and programming
+- 🌱 I’m currently learning Web-Dev with Odin Project
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: fsalih@stanford.edu 
 
 <!---
 fsalih23/fsalih23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
