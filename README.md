@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fsalih23. I am a freshman studying Computer Science at Stanford University
 - 👀 I’m interested in mathematics, web-dev, finance, quantiative developement, and programming
-- 🌱 I’m currently learning Web-Dev with Odin Project
+- 🌱 I’m currently learning Java
 - 📫 How to reach me: fsalih@stanford.edu 
 
 <!---
